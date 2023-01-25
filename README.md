@@ -8,7 +8,7 @@
 
 - The Panda is mounted on top of a Clearpath Ridgeback omnidirectional base. The base is stationary for this project.
 
-### To run the script in Rviz: 
+### To run the script in Rviz
 
 - First, `roslaunch panda_moveit_config demo.launch`
 
