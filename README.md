@@ -10,8 +10,11 @@
 
 ### To run the script in Rviz: 
 
-First, `roslaunch panda_moveit_config demo.launch`
+- First, `roslaunch panda_moveit_config demo.launch`
 
-Then, in another shell `rosrun pyramid pyramid.py`
+- Then, in another shell `rosrun pyramid pyramid.py`
 
- <img src="https://user-images.githubusercontent.com/20496918/184697670-c8b0e584-da03-41b7-ae52-ba7c8c33ecdf.png" alt="Picture of Panda" width="500" height="600"> 
+<p center="align">
+ <img src="https://user-images.githubusercontent.com/20496918/184697670-c8b0e584-da03-41b7-ae52-ba7c8c33ecdf.png" alt="Picture of Panda" class="center" width="500" height="600"> 
+ <p/>
+
