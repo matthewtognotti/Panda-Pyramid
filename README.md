@@ -6,6 +6,16 @@ The script uses some of the functions from the [MoveIt python interface tutorial
 
 The script provides the option to sequentially choose which box to place and an option to place all remaining boxes. 
 
-The Panda is mounted on top of a Clearpath Ridgeback omnidirectional base. The base will be stationary for this project.
+The Panda is mounted on top of a Clearpath Ridgeback omnidirectional base. The base is stationary for this project.
+
+## To run the script in Rviz: 
+
+First, 
+
+'roslaunch panda_moveit_config demo.launch'
+
+Then, in another shell 
+
+'rosrun pyramid pyramid.py'
 
 ![image](https://user-images.githubusercontent.com/20496918/184697670-c8b0e584-da03-41b7-ae52-ba7c8c33ecdf.png)
