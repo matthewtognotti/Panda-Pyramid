@@ -14,7 +14,7 @@
 
 - Then, in another shell `rosrun pyramid pyramid.py`
 
-<p center="align">
+<p align = "center">
  <img src="https://user-images.githubusercontent.com/20496918/184697670-c8b0e584-da03-41b7-ae52-ba7c8c33ecdf.png" alt="Picture of Panda" class="center" width="500" height="600"> 
  <p/>
 
