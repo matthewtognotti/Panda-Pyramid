@@ -6,6 +6,7 @@
 # All rights reserved.
 
 # Author: Acorn Pooley, Mike Lautman
+# Modified: Matt Tognotti, Ryan Konrath
 
 import sys
 import copy
