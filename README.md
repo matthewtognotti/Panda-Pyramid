@@ -14,4 +14,4 @@ First, `roslaunch panda_moveit_config demo.launch`
 
 Then, in another shell `rosrun pyramid pyramid.py`
 
- <img src="[img_girl.jpg](https://user-images.githubusercontent.com/20496918/184697670-c8b0e584-da03-41b7-ae52-ba7c8c33ecdf.png)" alt="Picture of Panda" width="500" height="600"> 
+ <img src="https://user-images.githubusercontent.com/20496918/184697670-c8b0e584-da03-41b7-ae52-ba7c8c33ecdf.png" alt="Picture of Panda" width="500" height="600"> 
